@@ -1,4 +1,4 @@
-# 04-sql-queries-joins.sql
+# MySQL queries joins
 
 SELECT o.id, c.name, o.order_date
 FROM orders o
